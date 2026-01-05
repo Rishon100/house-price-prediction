@@ -4,7 +4,7 @@ This project is an end-to-end Machine Learning regression system that predicts h
 
 ## 🌐 Live Demo
 🔗 **Streamlit App:**  
-https://house-price-predictiongit-ha4awtugdd44erhdrqygpo.streamlit.app
+https://house-price-predictiongit-78dzcnrbuuenmydgxuyar2.streamlit.app
 
 ## 📌 Problem Statement
 Predict the price of a house using features such as area, number of rooms, facilities, and furnishing status.
