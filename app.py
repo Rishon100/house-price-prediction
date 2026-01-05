@@ -74,7 +74,7 @@ st.markdown("""
 # Header
 st.title("🏠 House Price Prediction")
 st.markdown(
-    "Get instant price estimates using advanced **Machine Learning algorithms**. "
+    "Get instant house price estimates using a trained Machine Learning model. "
     "Simply enter the property details below."
 )
 
