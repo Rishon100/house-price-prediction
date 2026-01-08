@@ -10,9 +10,11 @@ https://house-price-predictiongit-78dzcnrbuuenmydgxuyar2.streamlit.app
 Predict the price of a house using features such as area, number of rooms, facilities, and furnishing status.
 
 ## 🧠 Machine Learning Approach
+
 - Regression problem (predicting a numeric value)
-- Baseline model: Linear Regression
-- Random Forest was also tested, but Linear Regression performed better on this dataset
+- Final model: **Multiple Linear Regression**
+- Random Forest was also evaluated, but Multiple Linear Regression achieved better performance on this dataset
+
 
 ## 📂 Dataset
 Kaggle Housing Price Dataset
